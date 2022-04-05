@@ -3,7 +3,7 @@
 
 **INDICATORS OF COMPROMISE:**
 
-Hash (SHA-256):
+**Hash (SHA-256):**
 
 dc34fca4e03dbdf52e8c7688e7802d5dec92cc84f07a78b1b33293675340630c
 
@@ -15,7 +15,8 @@ c544daa7a7c0bb52ab74e222bbf66d4da14e444ebcea762974c4443d476589d3
 
 0b4c743246478a6a8c9fa3ff8e04f297507c2f0ea5d61a1284fe65387d172f81
 
-MD5:
+
+**MD5:**
 
 7826b97292b7c34fbb5ae10bae9a7f3e
 
@@ -25,7 +26,7 @@ MD5:
 
 1b37755c28fb994623cb89fa95fa8634
 
-Malicious Filename:
+**Malicious Filename:**
 
 AntiRecuvaAndDB.exe
 
@@ -57,7 +58,7 @@ svchost.exe.bin
 
 10. Maintain offline (i.e., physically disconnected) backups of data, and regularly test backup and
 
-**Reference:**
+**References:**
 
 https://helpransomware.com/en/phobos-ransomware/
 https://geeksadvice.com/remove-phobos-ransomware-virus/
